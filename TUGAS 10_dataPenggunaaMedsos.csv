@@ -1,0 +1,1001 @@
+,id_responden,usia,jenis_kelamin,platform,durasi_penggunaan (jam/hari),konten,produktivitas,kesehatan_mental,oversharing,dampak
+0,1,17,0,X,4.9,Edukasi,8,7,jarang,netral
+1,2,20,0,YouTube,3.9,Hiburan,10,7,jarang,netral
+2,3,20,1,TikTok,3.7,Hiburan,4,8,tidak pernah,netral
+3,4,13,0,YouTube,4.0,Hiburan,7,7,jarang,netral
+4,5,24,1,Instagram,2.2,Hiburan,6,8,tidak pernah,posistif
+5,6,20,1,TikTok,5.5,Hiburan,8,4,jarang,negatif
+6,7,13,1,TikTok,6.1,Hiburan,3,6,jarang,negatif
+7,8,13,0,Instagram,4.4,Hiburan,7,7,sering,netral
+8,9,23,0,TikTok,6.5,Edukasi,6,5,sering,negatif
+9,10,24,1,TikTok,5.0,Hiburan,3,7,tidak pernah,netral
+10,11,20,1,TikTok,4.1,Hiburan,4,6,sering,netral
+11,12,19,1,TikTok,3.1,Hiburan,6,7,jarang,netral
+12,13,23,1,Instagram,4.1,Hiburan,7,5,sering,netral
+13,14,12,1,TikTok,7.2,Hiburan,7,4,tidak pernah,negatif
+14,15,23,0,Facebook,5.3,Hiburan,4,5,jarang,negatif
+15,16,22,1,Instagram,5.0,Hiburan,2,6,tidak pernah,netral
+16,17,22,1,TikTok,3.8,Hiburan,2,6,jarang,netral
+17,18,21,0,TikTok,4.5,Hiburan,8,7,tidak pernah,netral
+18,19,14,1,TikTok,4.2,Hiburan,5,6,jarang,netral
+19,20,13,0,X,4.2,Hiburan,9,8,jarang,netral
+20,21,21,0,TikTok,2.8,Hiburan,5,8,jarang,posistif
+21,22,21,1,TikTok,3.3,Hiburan,2,9,jarang,netral
+22,23,16,1,TikTok,4.9,Edukasi,9,8,jarang,netral
+23,24,19,1,Instagram,1.7,Hiburan,8,8,tidak pernah,posistif
+24,25,14,0,TikTok,2.2,Hiburan,7,7,jarang,posistif
+25,26,15,1,YouTube,3.6,Hiburan,10,9,tidak pernah,netral
+26,27,14,1,TikTok,7.4,Edukasi,4,4,jarang,negatif
+27,28,15,1,TikTok,4.4,Hiburan,3,7,tidak pernah,netral
+28,29,21,1,Instagram,4.4,Hiburan,4,8,jarang,netral
+29,30,21,1,X,4.1,Hiburan,2,6,tidak pernah,netral
+30,31,14,0,YouTube,3.8,Hiburan,8,7,jarang,netral
+31,32,24,1,Instagram,5.3,Hiburan,10,5,jarang,negatif
+32,33,19,0,YouTube,3.6,Berita,5,7,jarang,netral
+33,34,24,0,YouTube,4.6,Hiburan,9,7,jarang,netral
+34,35,20,0,YouTube,6.9,Hiburan,7,2,jarang,negatif
+35,36,13,1,Instagram,2.2,Hiburan,2,6,sering,posistif
+36,37,17,0,Instagram,3.6,Berita,10,7,jarang,netral
+37,38,22,1,Instagram,2.4,Edukasi,7,7,jarang,posistif
+38,39,15,1,X,6.9,Berita,9,6,tidak pernah,negatif
+39,40,22,0,YouTube,2.9,Hiburan,5,8,jarang,posistif
+40,41,15,0,Instagram,4.2,Berita,8,6,jarang,netral
+41,42,16,1,TikTok,4.7,Hiburan,8,8,jarang,netral
+42,43,24,1,YouTube,4.5,Hiburan,5,5,jarang,netral
+43,44,12,0,YouTube,3.5,Edukasi,3,6,jarang,netral
+44,45,19,0,Instagram,2.6,Hiburan,7,8,tidak pernah,posistif
+45,46,24,0,Instagram,3.7,Edukasi,7,7,sering,netral
+46,47,16,0,YouTube,4.7,Berita,10,5,jarang,netral
+47,48,15,0,TikTok,3.0,Hiburan,5,8,jarang,netral
+48,49,23,0,YouTube,3.0,Viral Challenge,4,7,jarang,netral
+49,50,17,0,YouTube,5.0,Hiburan,9,7,jarang,netral
+50,51,15,0,Instagram,2.2,Hiburan,8,9,jarang,posistif
+51,52,14,1,Instagram,4.1,Hiburan,5,7,jarang,netral
+52,53,15,1,Instagram,6.5,Hiburan,5,7,sering,negatif
+53,54,19,0,YouTube,1.5,Hiburan,6,8,sering,posistif
+54,55,13,0,Instagram,3.6,Edukasi,9,8,jarang,netral
+55,56,14,0,YouTube,2.5,Hiburan,7,9,jarang,posistif
+56,57,21,1,TikTok,4.1,Hiburan,10,7,jarang,netral
+57,58,22,1,TikTok,5.4,Hiburan,6,5,sering,negatif
+58,59,19,1,YouTube,4.1,Hiburan,5,7,sering,netral
+59,60,23,0,YouTube,3.7,Edukasi,9,8,tidak pernah,netral
+60,61,23,1,YouTube,6.1,Hiburan,9,4,sering,negatif
+61,62,22,1,TikTok,2.5,Edukasi,10,8,sering,posistif
+62,63,17,0,Instagram,5.5,Hiburan,9,7,tidak pernah,negatif
+63,64,19,1,TikTok,7.2,Edukasi,8,4,jarang,negatif
+64,65,20,1,TikTok,3.4,Edukasi,3,6,jarang,netral
+65,66,19,0,Instagram,3.4,Hiburan,3,7,sering,netral
+66,67,21,0,YouTube,5.1,Berita,7,5,jarang,negatif
+67,68,24,0,TikTok,6.1,Viral Challenge,7,6,jarang,negatif
+68,69,22,0,Instagram,1.0,Hiburan,3,9,sering,posistif
+69,70,24,0,Instagram,4.6,Hiburan,8,7,jarang,netral
+70,71,19,0,X,6.4,Hiburan,9,7,tidak pernah,negatif
+71,72,15,1,YouTube,7.4,Hiburan,4,2,jarang,negatif
+72,73,24,0,Instagram,3.5,Hiburan,5,7,jarang,netral
+73,74,24,0,Instagram,1.6,Hiburan,8,8,sering,posistif
+74,75,13,1,Instagram,3.9,Hiburan,6,9,jarang,netral
+75,76,13,0,Instagram,4.9,Viral Challenge,5,5,jarang,netral
+76,77,18,1,Instagram,1.1,Edukasi,7,9,jarang,posistif
+77,78,15,0,Instagram,1.0,Hiburan,2,7,jarang,posistif
+78,79,24,0,Instagram,2.2,Hiburan,7,9,sering,posistif
+79,80,12,0,TikTok,4.9,Hiburan,2,7,tidak pernah,netral
+80,81,17,0,TikTok,3.8,Edukasi,4,7,jarang,netral
+81,82,20,0,Instagram,4.2,Hiburan,9,7,tidak pernah,netral
+82,83,24,0,TikTok,3.5,Hiburan,5,9,sering,netral
+83,84,12,0,YouTube,5.0,Hiburan,6,6,jarang,netral
+84,85,19,1,TikTok,5.4,Hiburan,6,6,tidak pernah,negatif
+85,86,17,0,YouTube,3.7,Hiburan,3,8,sering,netral
+86,87,22,1,TikTok,3.4,Hiburan,10,7,jarang,netral
+87,88,21,0,Instagram,3.0,Hiburan,3,7,jarang,netral
+88,89,15,1,TikTok,1.2,Hiburan,8,7,sering,posistif
+89,90,21,0,TikTok,7.6,Edukasi,10,5,tidak pernah,negatif
+90,91,15,1,Instagram,2.4,Hiburan,3,9,tidak pernah,posistif
+91,92,23,1,Instagram,1.0,Berita,7,10,sering,posistif
+92,93,24,1,TikTok,5.3,Hiburan,5,4,tidak pernah,negatif
+93,94,14,0,Instagram,3.0,Edukasi,5,7,sering,netral
+94,95,12,0,YouTube,3.6,Hiburan,2,7,jarang,netral
+95,96,21,1,YouTube,1.8,Hiburan,6,9,jarang,posistif
+96,97,22,1,Instagram,3.2,Hiburan,3,6,tidak pernah,netral
+97,98,17,1,YouTube,5.4,Hiburan,7,5,tidak pernah,negatif
+98,99,21,1,Instagram,5.8,Hiburan,9,5,jarang,negatif
+99,100,23,0,YouTube,7.5,Hiburan,10,4,jarang,negatif
+100,101,14,1,TikTok,3.0,Edukasi,8,6,sering,netral
+101,102,14,1,Facebook,2.3,Hiburan,8,8,jarang,posistif
+102,103,13,0,Instagram,4.9,Hiburan,7,7,jarang,netral
+103,104,23,1,YouTube,5.4,Hiburan,7,7,sering,negatif
+104,105,19,1,Instagram,3.8,Berita,3,7,jarang,netral
+105,106,12,1,YouTube,6.2,Edukasi,2,4,tidak pernah,negatif
+106,107,15,0,TikTok,4.1,Edukasi,9,8,jarang,netral
+107,108,19,1,TikTok,2.4,Hiburan,9,9,sering,posistif
+108,109,23,1,TikTok,6.6,Berita,8,4,tidak pernah,negatif
+109,110,24,0,TikTok,2.6,Hiburan,4,8,tidak pernah,posistif
+110,111,15,1,TikTok,2.5,Hiburan,5,9,tidak pernah,posistif
+111,112,18,0,TikTok,3.7,Hiburan,2,5,sering,netral
+112,113,23,1,TikTok,3.0,Hiburan,8,7,tidak pernah,netral
+113,114,22,0,TikTok,2.2,Hiburan,7,10,tidak pernah,posistif
+114,115,14,0,YouTube,3.3,Edukasi,9,9,tidak pernah,netral
+115,116,13,0,TikTok,2.2,Hiburan,4,8,jarang,posistif
+116,117,17,1,YouTube,4.4,Hiburan,8,7,sering,netral
+117,118,22,0,YouTube,2.0,Edukasi,6,8,tidak pernah,posistif
+118,119,19,1,Instagram,4.2,Edukasi,3,7,tidak pernah,netral
+119,120,22,1,Instagram,3.3,Hiburan,7,7,jarang,netral
+120,121,21,1,TikTok,4.5,Berita,3,7,jarang,netral
+121,122,15,0,Instagram,4.0,Hiburan,2,5,jarang,netral
+122,123,14,1,Facebook,2.8,Hiburan,9,9,sering,posistif
+123,124,17,0,Instagram,6.9,Berita,8,4,jarang,negatif
+124,125,14,0,YouTube,5.4,Hiburan,7,7,jarang,negatif
+125,126,17,1,Instagram,5.1,Edukasi,3,7,tidak pernah,negatif
+126,127,12,0,Instagram,3.7,Edukasi,6,8,jarang,netral
+127,128,19,1,X,5.6,Hiburan,2,4,tidak pernah,negatif
+128,129,22,0,TikTok,2.8,Hiburan,6,7,jarang,posistif
+129,130,17,0,YouTube,3.2,Hiburan,7,6,jarang,netral
+130,131,18,1,TikTok,7.5,Edukasi,10,5,jarang,negatif
+131,132,13,0,Instagram,5.1,Hiburan,3,5,jarang,negatif
+132,133,19,0,YouTube,2.2,Hiburan,5,8,jarang,posistif
+133,134,17,1,TikTok,5.5,Edukasi,8,5,jarang,negatif
+134,135,22,1,TikTok,3.2,Hiburan,7,5,sering,netral
+135,136,17,0,TikTok,2.7,Edukasi,9,8,sering,posistif
+136,137,15,1,TikTok,4.8,Hiburan,3,7,sering,netral
+137,138,14,1,TikTok,4.3,Edukasi,4,7,jarang,netral
+138,139,13,1,TikTok,4.1,Hiburan,7,6,sering,netral
+139,140,12,1,TikTok,4.3,Hiburan,3,6,sering,netral
+140,141,17,0,Instagram,2.8,Hiburan,3,7,jarang,posistif
+141,142,15,0,YouTube,3.1,Edukasi,2,7,jarang,netral
+142,143,13,1,TikTok,3.9,Viral Challenge,4,6,jarang,netral
+143,144,19,1,YouTube,4.2,Hiburan,5,6,jarang,netral
+144,145,21,0,TikTok,5.1,Edukasi,6,6,jarang,negatif
+145,146,22,0,TikTok,3.8,Hiburan,3,6,tidak pernah,netral
+146,147,22,0,YouTube,8.0,Hiburan,5,3,jarang,negatif
+147,148,16,0,TikTok,4.4,Hiburan,7,6,tidak pernah,netral
+148,149,18,0,Instagram,3.9,Hiburan,8,6,sering,netral
+149,150,15,0,TikTok,3.5,Hiburan,9,6,jarang,netral
+150,151,24,0,TikTok,3.8,Hiburan,8,8,jarang,netral
+151,152,18,1,Instagram,3.0,Edukasi,4,7,jarang,netral
+152,153,14,1,TikTok,2.0,Hiburan,10,7,tidak pernah,posistif
+153,154,16,1,X,1.7,Viral Challenge,8,7,sering,posistif
+154,155,19,1,Instagram,5.2,Viral Challenge,5,5,tidak pernah,negatif
+155,156,15,1,X,5.4,Viral Challenge,6,8,tidak pernah,negatif
+156,157,20,0,YouTube,4.5,Berita,5,7,jarang,netral
+157,158,17,0,TikTok,5.5,Hiburan,8,6,tidak pernah,negatif
+158,159,23,0,YouTube,4.2,Hiburan,5,6,jarang,netral
+159,160,23,0,YouTube,4.2,Edukasi,8,5,jarang,netral
+160,161,21,1,TikTok,4.5,Hiburan,2,7,tidak pernah,netral
+161,162,13,0,Instagram,3.3,Hiburan,6,7,jarang,netral
+162,163,21,0,TikTok,5.2,Hiburan,10,4,sering,negatif
+163,164,23,0,X,1.6,Hiburan,6,8,jarang,posistif
+164,165,14,1,YouTube,5.5,Berita,5,5,sering,negatif
+165,166,22,0,Instagram,4.1,Edukasi,8,7,jarang,netral
+166,167,17,0,YouTube,2.9,Hiburan,5,8,tidak pernah,posistif
+167,168,19,1,X,4.0,Hiburan,7,8,tidak pernah,netral
+168,169,16,0,YouTube,1.0,Hiburan,2,9,sering,posistif
+169,170,15,1,TikTok,5.5,Hiburan,2,4,sering,negatif
+170,171,17,1,TikTok,6.9,Viral Challenge,7,6,tidak pernah,negatif
+171,172,22,1,Facebook,5.5,Hiburan,2,5,jarang,negatif
+172,173,21,0,Instagram,5.4,Viral Challenge,3,7,jarang,negatif
+173,174,18,1,Instagram,3.8,Edukasi,2,6,sering,netral
+174,175,17,1,Instagram,3.3,Hiburan,9,7,sering,netral
+175,176,12,0,TikTok,2.5,Hiburan,8,7,jarang,posistif
+176,177,19,0,TikTok,1.0,Hiburan,7,10,jarang,posistif
+177,178,15,1,Instagram,6.2,Hiburan,5,5,tidak pernah,negatif
+178,179,18,1,TikTok,5.8,Edukasi,7,3,jarang,negatif
+179,180,22,0,TikTok,4.0,Edukasi,7,5,sering,netral
+180,181,20,1,X,5.1,Hiburan,7,8,jarang,negatif
+181,182,12,0,TikTok,6.4,Hiburan,9,4,jarang,negatif
+182,183,20,0,Instagram,6.8,Hiburan,8,4,jarang,negatif
+183,184,17,1,Instagram,5.7,Hiburan,2,6,sering,negatif
+184,185,21,0,Instagram,6.7,Hiburan,3,6,tidak pernah,negatif
+185,186,18,1,Instagram,2.1,Hiburan,4,7,tidak pernah,posistif
+186,187,12,0,YouTube,5.1,Hiburan,2,6,jarang,negatif
+187,188,14,0,TikTok,6.1,Edukasi,8,5,jarang,negatif
+188,189,13,1,X,5.0,Edukasi,4,8,sering,netral
+189,190,16,0,Instagram,4.7,Hiburan,5,6,jarang,netral
+190,191,18,1,TikTok,5.8,Hiburan,10,6,tidak pernah,negatif
+191,192,19,0,TikTok,6.6,Edukasi,6,4,tidak pernah,negatif
+192,193,16,1,TikTok,3.1,Hiburan,3,8,tidak pernah,netral
+193,194,23,0,TikTok,4.6,Hiburan,7,6,jarang,netral
+194,195,12,1,YouTube,4.9,Berita,4,6,sering,netral
+195,196,21,0,Instagram,6.3,Hiburan,2,7,sering,negatif
+196,197,18,1,X,4.0,Edukasi,5,8,jarang,netral
+197,198,16,0,Instagram,3.8,Hiburan,7,7,jarang,netral
+198,199,23,1,YouTube,6.7,Hiburan,7,5,jarang,negatif
+199,200,15,1,Instagram,6.8,Hiburan,9,4,sering,negatif
+200,201,24,1,TikTok,5.0,Hiburan,6,8,sering,netral
+201,202,24,1,YouTube,1.5,Hiburan,9,10,jarang,posistif
+202,203,14,0,TikTok,2.3,Edukasi,8,7,jarang,posistif
+203,204,14,1,YouTube,3.9,Berita,5,7,jarang,netral
+204,205,16,1,YouTube,6.1,Edukasi,9,5,tidak pernah,negatif
+205,206,12,1,YouTube,6.2,Edukasi,9,5,sering,negatif
+206,207,14,1,Facebook,4.9,Hiburan,3,9,tidak pernah,netral
+207,208,16,0,YouTube,6.5,Hiburan,3,6,jarang,negatif
+208,209,24,0,TikTok,1.3,Viral Challenge,2,6,jarang,posistif
+209,210,13,0,YouTube,4.6,Hiburan,9,3,tidak pernah,negatif
+210,211,20,1,TikTok,5.4,Hiburan,8,7,jarang,negatif
+211,212,12,1,TikTok,3.3,Berita,6,7,sering,netral
+212,213,14,0,YouTube,5.1,Hiburan,7,5,jarang,negatif
+213,214,21,1,Instagram,3.8,Hiburan,4,6,sering,netral
+214,215,21,1,YouTube,6.0,Edukasi,3,6,jarang,negatif
+215,216,21,0,X,6.8,Hiburan,3,5,jarang,negatif
+216,217,24,0,YouTube,5.5,Hiburan,7,6,sering,negatif
+217,218,15,0,YouTube,1.0,Hiburan,6,9,tidak pernah,posistif
+218,219,21,0,YouTube,2.3,Hiburan,9,8,tidak pernah,posistif
+219,220,16,1,YouTube,4.7,Edukasi,10,7,tidak pernah,netral
+220,221,15,0,YouTube,4.3,Hiburan,7,7,tidak pernah,netral
+221,222,21,1,YouTube,4.1,Hiburan,5,5,tidak pernah,netral
+222,223,16,0,TikTok,3.4,Berita,6,8,jarang,netral
+223,224,14,0,TikTok,3.7,Edukasi,6,6,jarang,netral
+224,225,12,1,TikTok,4.5,Edukasi,5,5,jarang,netral
+225,226,12,1,YouTube,4.6,Hiburan,2,6,jarang,netral
+226,227,19,0,TikTok,3.0,Hiburan,5,6,sering,netral
+227,228,18,0,Instagram,3.8,Hiburan,5,6,jarang,netral
+228,229,13,1,YouTube,4.8,Edukasi,5,6,jarang,netral
+229,230,12,1,YouTube,2.2,Edukasi,5,8,jarang,posistif
+230,231,17,0,TikTok,2.7,Edukasi,3,9,sering,posistif
+231,232,20,0,TikTok,3.1,Hiburan,5,7,jarang,netral
+232,233,13,0,YouTube,3.1,Viral Challenge,10,8,tidak pernah,netral
+233,234,13,1,TikTok,3.9,Edukasi,10,6,jarang,netral
+234,235,22,0,YouTube,3.8,Berita,4,8,jarang,netral
+235,236,20,1,Instagram,4.5,Hiburan,8,7,jarang,netral
+236,237,12,0,X,4.7,Edukasi,8,7,tidak pernah,netral
+237,238,15,0,TikTok,6.2,Edukasi,5,6,sering,negatif
+238,239,23,1,Instagram,1.0,Hiburan,3,9,jarang,posistif
+239,240,18,0,Instagram,4.3,Hiburan,8,6,jarang,netral
+240,241,17,0,X,5.3,Hiburan,5,5,tidak pernah,negatif
+241,242,18,1,TikTok,1.4,Hiburan,3,10,sering,posistif
+242,243,14,1,Instagram,3.9,Hiburan,3,6,jarang,netral
+243,244,24,0,YouTube,1.6,Hiburan,3,6,tidak pernah,posistif
+244,245,16,1,X,3.3,Hiburan,2,8,jarang,netral
+245,246,19,0,YouTube,3.9,Edukasi,6,7,jarang,netral
+246,247,20,0,TikTok,4.6,Hiburan,4,6,sering,netral
+247,248,13,0,YouTube,5.7,Edukasi,2,4,tidak pernah,negatif
+248,249,16,0,Instagram,3.6,Berita,9,7,sering,netral
+249,250,23,1,TikTok,4.5,Hiburan,9,5,sering,netral
+250,251,16,0,TikTok,6.5,Edukasi,4,6,jarang,negatif
+251,252,20,0,Instagram,3.6,Edukasi,5,7,tidak pernah,netral
+252,253,12,0,YouTube,3.9,Edukasi,8,6,jarang,netral
+253,254,21,0,YouTube,4.1,Hiburan,9,8,jarang,netral
+254,255,21,0,YouTube,2.3,Hiburan,7,6,tidak pernah,posistif
+255,256,23,0,YouTube,3.0,Edukasi,3,9,tidak pernah,netral
+256,257,14,0,YouTube,4.3,Hiburan,6,6,tidak pernah,netral
+257,258,20,0,X,3.0,Hiburan,8,6,tidak pernah,netral
+258,259,18,0,Instagram,3.1,Hiburan,2,7,jarang,netral
+259,260,19,1,TikTok,5.5,Hiburan,7,7,jarang,negatif
+260,261,19,0,TikTok,5.1,Hiburan,10,7,tidak pernah,negatif
+261,262,14,0,TikTok,3.7,Edukasi,5,7,tidak pernah,netral
+262,263,14,1,TikTok,3.0,Edukasi,7,7,sering,netral
+263,264,24,1,TikTok,5.4,Hiburan,6,6,tidak pernah,negatif
+264,265,22,0,YouTube,7.0,Hiburan,9,5,tidak pernah,negatif
+265,266,13,1,TikTok,4.8,Hiburan,9,7,sering,netral
+266,267,18,1,Instagram,5.8,Hiburan,10,6,sering,negatif
+267,268,22,1,YouTube,2.8,Hiburan,10,8,tidak pernah,posistif
+268,269,16,1,YouTube,4.2,Hiburan,4,6,tidak pernah,netral
+269,270,21,1,Instagram,2.6,Hiburan,6,8,tidak pernah,posistif
+270,271,12,0,X,3.6,Hiburan,5,7,jarang,netral
+271,272,12,1,YouTube,6.8,Hiburan,8,3,tidak pernah,negatif
+272,273,18,0,Instagram,2.8,Edukasi,9,7,tidak pernah,posistif
+273,274,14,0,YouTube,4.2,Edukasi,2,7,tidak pernah,netral
+274,275,21,0,TikTok,5.2,Edukasi,6,6,jarang,negatif
+275,276,12,1,Instagram,7.0,Edukasi,2,3,jarang,negatif
+276,277,20,1,Instagram,5.6,Berita,6,6,sering,negatif
+277,278,18,1,TikTok,5.7,Hiburan,9,4,sering,negatif
+278,279,18,0,Instagram,3.9,Hiburan,10,5,jarang,netral
+279,280,12,0,YouTube,2.8,Edukasi,9,9,tidak pernah,posistif
+280,281,19,0,YouTube,5.9,Hiburan,3,6,jarang,negatif
+281,282,18,1,Instagram,6.3,Edukasi,2,4,jarang,negatif
+282,283,21,1,YouTube,3.6,Hiburan,4,6,tidak pernah,netral
+283,284,20,0,YouTube,7.2,Berita,5,5,sering,negatif
+284,285,16,0,Instagram,2.5,Hiburan,6,9,jarang,posistif
+285,286,22,0,YouTube,3.4,Hiburan,2,8,jarang,netral
+286,287,16,0,TikTok,6.3,Berita,3,5,tidak pernah,negatif
+287,288,17,1,TikTok,3.5,Hiburan,5,7,jarang,netral
+288,289,15,1,YouTube,5.8,Edukasi,5,7,jarang,negatif
+289,290,20,1,Instagram,4.8,Berita,3,6,jarang,netral
+290,291,17,1,Instagram,5.5,Hiburan,6,5,jarang,negatif
+291,292,22,1,X,4.4,Edukasi,4,6,jarang,netral
+292,293,14,0,Instagram,5.8,Edukasi,8,4,sering,negatif
+293,294,19,0,TikTok,3.3,Hiburan,8,7,jarang,netral
+294,295,15,1,YouTube,5.8,Hiburan,6,6,tidak pernah,negatif
+295,296,21,1,TikTok,2.8,Edukasi,6,8,jarang,posistif
+296,297,13,1,TikTok,5.1,Hiburan,7,6,tidak pernah,negatif
+297,298,22,0,TikTok,4.5,Edukasi,4,6,tidak pernah,netral
+298,299,19,1,TikTok,2.1,Berita,7,7,jarang,posistif
+299,300,19,1,TikTok,2.8,Hiburan,8,8,jarang,posistif
+300,301,21,0,TikTok,4.5,Hiburan,6,6,sering,netral
+301,302,19,0,TikTok,3.7,Edukasi,2,7,jarang,netral
+302,303,13,1,TikTok,3.2,Hiburan,9,9,jarang,netral
+303,304,22,1,TikTok,2.6,Hiburan,3,8,jarang,posistif
+304,305,15,1,YouTube,5.8,Hiburan,8,6,tidak pernah,negatif
+305,306,12,0,Instagram,5.4,Hiburan,7,6,jarang,negatif
+306,307,16,1,Instagram,3.0,Berita,3,9,jarang,netral
+307,308,14,1,Instagram,5.8,Edukasi,5,6,jarang,negatif
+308,309,13,1,TikTok,8.0,Edukasi,9,3,tidak pernah,negatif
+309,310,18,1,TikTok,2.7,Hiburan,2,9,jarang,posistif
+310,311,12,1,TikTok,1.5,Edukasi,7,7,jarang,posistif
+311,312,19,0,TikTok,4.0,Hiburan,4,7,tidak pernah,netral
+312,313,18,0,TikTok,3.5,Hiburan,8,7,sering,netral
+313,314,14,1,Instagram,4.1,Hiburan,2,8,tidak pernah,netral
+314,315,22,1,Instagram,3.6,Hiburan,3,7,tidak pernah,netral
+315,316,14,1,YouTube,3.3,Hiburan,9,6,tidak pernah,netral
+316,317,24,1,TikTok,3.8,Hiburan,5,6,jarang,netral
+317,318,22,0,TikTok,3.7,Edukasi,8,5,tidak pernah,netral
+318,319,21,0,Instagram,4.7,Hiburan,3,5,sering,netral
+319,320,20,0,YouTube,6.7,Hiburan,3,4,sering,negatif
+320,321,13,0,YouTube,5.0,Hiburan,6,5,tidak pernah,netral
+321,322,18,0,TikTok,3.4,Hiburan,2,8,jarang,netral
+322,323,17,0,Instagram,4.2,Berita,8,7,tidak pernah,netral
+323,324,13,1,YouTube,4.0,Hiburan,8,5,sering,netral
+324,325,18,1,Instagram,3.9,Hiburan,6,7,jarang,netral
+325,326,23,0,Facebook,1.2,Edukasi,4,8,sering,posistif
+326,327,22,1,TikTok,3.8,Hiburan,6,7,sering,netral
+327,328,22,0,TikTok,2.5,Viral Challenge,3,8,jarang,posistif
+328,329,18,1,Instagram,3.9,Edukasi,7,7,jarang,netral
+329,330,20,1,TikTok,4.6,Hiburan,9,5,tidak pernah,netral
+330,331,18,1,YouTube,4.2,Edukasi,9,5,tidak pernah,netral
+331,332,12,0,YouTube,7.4,Hiburan,6,4,jarang,negatif
+332,333,21,1,X,5.2,Hiburan,5,7,jarang,negatif
+333,334,13,0,TikTok,2.8,Edukasi,8,7,tidak pernah,posistif
+334,335,22,1,TikTok,5.4,Hiburan,8,5,sering,negatif
+335,336,19,0,TikTok,6.6,Hiburan,5,5,sering,negatif
+336,337,16,0,TikTok,2.0,Hiburan,7,9,sering,posistif
+337,338,22,1,YouTube,5.7,Hiburan,6,5,jarang,negatif
+338,339,15,0,Instagram,5.0,Hiburan,4,6,tidak pernah,netral
+339,340,14,0,TikTok,5.9,Hiburan,10,6,jarang,negatif
+340,341,14,1,TikTok,3.0,Hiburan,6,7,jarang,netral
+341,342,17,1,TikTok,5.4,Hiburan,4,6,tidak pernah,negatif
+342,343,14,1,YouTube,4.6,Berita,2,6,jarang,netral
+343,344,16,1,TikTok,4.9,Hiburan,8,4,jarang,negatif
+344,345,12,0,Instagram,1.4,Hiburan,6,8,sering,posistif
+345,346,12,0,Instagram,2.8,Edukasi,3,9,tidak pernah,posistif
+346,347,20,0,Instagram,4.8,Edukasi,6,6,tidak pernah,netral
+347,348,16,0,Instagram,1.0,Hiburan,8,9,jarang,posistif
+348,349,17,1,Instagram,4.3,Viral Challenge,4,7,jarang,netral
+349,350,22,0,TikTok,2.6,Hiburan,4,8,jarang,posistif
+350,351,13,0,Instagram,5.1,Hiburan,8,6,jarang,negatif
+351,352,17,0,TikTok,2.0,Hiburan,5,8,sering,posistif
+352,353,20,0,Instagram,7.2,Hiburan,7,4,sering,negatif
+353,354,15,0,TikTok,4.4,Viral Challenge,8,6,jarang,netral
+354,355,20,1,Instagram,2.4,Hiburan,10,7,sering,posistif
+355,356,12,1,Instagram,5.3,Hiburan,3,7,jarang,negatif
+356,357,24,0,Instagram,5.3,Hiburan,6,5,tidak pernah,negatif
+357,358,12,0,YouTube,3.3,Edukasi,4,7,tidak pernah,netral
+358,359,14,1,TikTok,5.5,Hiburan,2,6,jarang,negatif
+359,360,23,1,TikTok,6.6,Hiburan,7,7,tidak pernah,negatif
+360,361,18,1,X,4.2,Hiburan,8,6,tidak pernah,netral
+361,362,18,1,Instagram,4.7,Berita,8,8,tidak pernah,netral
+362,363,15,0,TikTok,3.4,Hiburan,8,8,tidak pernah,netral
+363,364,16,1,TikTok,4.6,Edukasi,5,5,tidak pernah,netral
+364,365,17,1,Instagram,2.5,Edukasi,7,8,tidak pernah,posistif
+365,366,20,0,TikTok,4.6,Hiburan,6,7,tidak pernah,netral
+366,367,24,1,Instagram,3.6,Edukasi,2,9,tidak pernah,netral
+367,368,23,1,Facebook,4.1,Edukasi,3,5,tidak pernah,netral
+368,369,22,0,YouTube,2.7,Edukasi,6,8,jarang,posistif
+369,370,12,0,Instagram,2.8,Edukasi,10,7,tidak pernah,posistif
+370,371,13,1,TikTok,2.6,Hiburan,5,8,sering,posistif
+371,372,18,0,TikTok,3.3,Edukasi,7,7,tidak pernah,netral
+372,373,13,1,TikTok,2.7,Edukasi,2,7,tidak pernah,posistif
+373,374,20,0,YouTube,2.6,Berita,7,6,jarang,posistif
+374,375,12,0,X,5.1,Hiburan,9,6,jarang,negatif
+375,376,18,0,YouTube,3.5,Edukasi,6,6,jarang,netral
+376,377,21,0,TikTok,3.5,Edukasi,6,8,tidak pernah,netral
+377,378,19,0,Instagram,3.2,Hiburan,6,6,jarang,netral
+378,379,21,0,Instagram,6.8,Hiburan,9,5,jarang,negatif
+379,380,23,0,X,5.7,Edukasi,3,6,jarang,negatif
+380,381,16,1,TikTok,2.8,Edukasi,2,7,tidak pernah,posistif
+381,382,14,0,Instagram,6.6,Edukasi,7,2,jarang,negatif
+382,383,13,0,TikTok,2.0,Hiburan,9,10,jarang,posistif
+383,384,23,0,X,2.6,Edukasi,3,7,tidak pernah,posistif
+384,385,16,1,TikTok,3.9,Hiburan,10,8,tidak pernah,netral
+385,386,12,1,TikTok,3.1,Edukasi,4,7,jarang,netral
+386,387,17,0,Instagram,3.1,Hiburan,6,7,tidak pernah,netral
+387,388,22,1,Instagram,3.3,Hiburan,6,7,sering,netral
+388,389,22,0,X,5.0,Edukasi,2,5,jarang,netral
+389,390,18,1,TikTok,5.8,Berita,8,3,sering,negatif
+390,391,22,0,YouTube,4.7,Edukasi,7,6,tidak pernah,netral
+391,392,20,1,Facebook,4.2,Hiburan,10,6,jarang,netral
+392,393,12,0,TikTok,4.5,Hiburan,5,7,jarang,netral
+393,394,20,0,TikTok,2.4,Hiburan,2,8,jarang,posistif
+394,395,23,1,X,2.8,Hiburan,5,8,tidak pernah,posistif
+395,396,20,1,YouTube,5.7,Hiburan,2,6,jarang,negatif
+396,397,18,1,YouTube,4.3,Hiburan,9,6,jarang,netral
+397,398,17,1,YouTube,2.9,Hiburan,10,10,jarang,posistif
+398,399,16,0,Instagram,5.3,Edukasi,10,6,tidak pernah,negatif
+399,400,23,1,TikTok,4.1,Edukasi,9,7,sering,netral
+400,401,14,1,TikTok,6.3,Hiburan,5,5,tidak pernah,negatif
+401,402,17,1,TikTok,3.7,Viral Challenge,8,7,sering,netral
+402,403,12,0,YouTube,2.7,Hiburan,6,6,sering,posistif
+403,404,18,1,TikTok,3.2,Edukasi,7,6,tidak pernah,netral
+404,405,21,1,YouTube,4.3,Hiburan,4,5,tidak pernah,netral
+405,406,22,0,TikTok,5.4,Hiburan,4,6,sering,negatif
+406,407,19,1,Facebook,2.8,Edukasi,5,8,jarang,posistif
+407,408,17,1,TikTok,4.2,Viral Challenge,6,5,tidak pernah,netral
+408,409,24,0,TikTok,1.9,Hiburan,7,9,jarang,posistif
+409,410,12,0,TikTok,4.0,Berita,10,6,jarang,netral
+410,411,21,1,Instagram,5.7,Hiburan,2,5,tidak pernah,negatif
+411,412,16,1,X,5.2,Hiburan,6,6,sering,negatif
+412,413,13,1,TikTok,2.7,Hiburan,8,7,tidak pernah,posistif
+413,414,20,0,TikTok,6.6,Edukasi,8,6,sering,negatif
+414,415,13,1,TikTok,6.4,Hiburan,7,5,jarang,negatif
+415,416,23,1,TikTok,5.4,Viral Challenge,5,6,tidak pernah,negatif
+416,417,15,0,X,3.1,Hiburan,4,8,jarang,netral
+417,418,22,1,X,2.8,Hiburan,9,8,tidak pernah,posistif
+418,419,13,1,TikTok,4.7,Hiburan,4,6,sering,netral
+419,420,18,1,Facebook,2.1,Hiburan,7,8,sering,posistif
+420,421,22,1,Instagram,6.0,Edukasi,10,5,tidak pernah,negatif
+421,422,18,1,Instagram,4.8,Hiburan,6,7,jarang,netral
+422,423,21,0,YouTube,6.0,Edukasi,10,6,tidak pernah,negatif
+423,424,13,0,TikTok,6.4,Edukasi,8,7,sering,negatif
+424,425,14,0,Instagram,4.9,Edukasi,10,6,sering,netral
+425,426,18,0,YouTube,4.0,Hiburan,6,7,sering,netral
+426,427,23,1,Instagram,3.7,Hiburan,9,7,jarang,netral
+427,428,12,0,TikTok,4.6,Edukasi,6,7,jarang,netral
+428,429,17,0,Instagram,3.4,Edukasi,4,6,sering,netral
+429,430,15,1,Instagram,2.5,Berita,4,5,sering,posistif
+430,431,20,1,Instagram,3.4,Hiburan,7,7,tidak pernah,netral
+431,432,16,1,TikTok,2.2,Hiburan,8,7,jarang,posistif
+432,433,17,1,YouTube,4.2,Berita,9,7,tidak pernah,netral
+433,434,24,0,Instagram,4.4,Hiburan,7,6,tidak pernah,netral
+434,435,21,0,X,5.8,Hiburan,7,6,jarang,negatif
+435,436,19,0,TikTok,4.7,Hiburan,10,7,tidak pernah,netral
+436,437,24,0,Instagram,3.6,Hiburan,5,9,jarang,netral
+437,438,22,0,Instagram,4.2,Edukasi,5,7,tidak pernah,netral
+438,439,24,1,TikTok,2.2,Hiburan,5,7,jarang,posistif
+439,440,18,0,YouTube,2.3,Hiburan,3,8,jarang,posistif
+440,441,17,0,YouTube,3.4,Edukasi,10,9,tidak pernah,netral
+441,442,22,1,Instagram,3.6,Edukasi,6,8,tidak pernah,netral
+442,443,13,1,Instagram,1.2,Hiburan,3,10,tidak pernah,posistif
+443,444,19,0,TikTok,3.2,Hiburan,4,8,jarang,netral
+444,445,18,0,Instagram,7.7,Hiburan,9,5,sering,negatif
+445,446,15,0,X,4.0,Hiburan,3,7,jarang,netral
+446,447,18,1,TikTok,3.4,Hiburan,2,7,jarang,netral
+447,448,15,1,TikTok,2.4,Edukasi,2,8,jarang,posistif
+448,449,20,0,Instagram,3.3,Hiburan,2,7,tidak pernah,netral
+449,450,14,0,YouTube,5.2,Edukasi,6,7,tidak pernah,negatif
+450,451,21,0,TikTok,4.5,Hiburan,2,5,jarang,netral
+451,452,20,0,TikTok,4.3,Hiburan,5,5,sering,netral
+452,453,24,0,TikTok,6.1,Hiburan,3,5,jarang,negatif
+453,454,12,0,Instagram,5.5,Edukasi,2,6,jarang,negatif
+454,455,16,0,X,3.0,Hiburan,2,8,jarang,netral
+455,456,13,1,X,5.2,Edukasi,4,6,jarang,negatif
+456,457,18,0,Instagram,3.6,Edukasi,4,7,jarang,netral
+457,458,14,1,X,6.3,Hiburan,4,5,jarang,negatif
+458,459,15,0,TikTok,5.0,Viral Challenge,6,8,jarang,netral
+459,460,12,1,YouTube,3.1,Hiburan,6,6,jarang,netral
+460,461,21,1,TikTok,1.4,Edukasi,6,8,sering,posistif
+461,462,23,0,YouTube,1.9,Hiburan,10,8,sering,posistif
+462,463,23,0,TikTok,3.2,Hiburan,7,7,tidak pernah,netral
+463,464,18,1,TikTok,6.0,Hiburan,5,4,jarang,negatif
+464,465,23,0,TikTok,7.4,Hiburan,2,2,tidak pernah,negatif
+465,466,15,1,YouTube,4.4,Edukasi,6,5,tidak pernah,netral
+466,467,18,1,Instagram,3.8,Viral Challenge,9,5,jarang,netral
+467,468,22,1,TikTok,4.0,Hiburan,3,8,tidak pernah,netral
+468,469,20,0,YouTube,5.0,Hiburan,10,8,sering,netral
+469,470,17,1,TikTok,4.2,Hiburan,5,9,jarang,netral
+470,471,19,1,TikTok,3.1,Viral Challenge,7,7,tidak pernah,netral
+471,472,12,0,Instagram,3.0,Hiburan,7,7,jarang,netral
+472,473,22,0,TikTok,3.3,Edukasi,10,8,jarang,netral
+473,474,14,1,YouTube,3.1,Hiburan,10,7,jarang,netral
+474,475,17,1,YouTube,2.5,Hiburan,4,8,jarang,posistif
+475,476,22,1,Instagram,2.6,Hiburan,6,8,sering,posistif
+476,477,14,1,TikTok,4.3,Hiburan,4,6,jarang,netral
+477,478,16,0,Instagram,6.9,Hiburan,2,6,tidak pernah,negatif
+478,479,19,1,TikTok,5.2,Hiburan,5,7,tidak pernah,negatif
+479,480,15,1,Instagram,4.1,Hiburan,6,7,sering,netral
+480,481,21,1,TikTok,3.3,Hiburan,8,8,sering,netral
+481,482,23,0,Instagram,2.6,Hiburan,5,8,jarang,posistif
+482,483,24,1,YouTube,2.0,Berita,3,7,sering,posistif
+483,484,19,1,Instagram,3.3,Hiburan,7,8,sering,netral
+484,485,17,1,TikTok,5.5,Berita,10,5,jarang,negatif
+485,486,17,0,TikTok,5.3,Edukasi,9,7,jarang,negatif
+486,487,22,1,TikTok,3.3,Edukasi,5,8,tidak pernah,netral
+487,488,17,0,TikTok,3.1,Hiburan,8,8,jarang,netral
+488,489,16,0,TikTok,1.3,Hiburan,3,9,tidak pernah,posistif
+489,490,19,1,TikTok,4.6,Hiburan,4,6,jarang,netral
+490,491,20,0,TikTok,4.7,Edukasi,2,7,jarang,netral
+491,492,22,1,TikTok,4.9,Edukasi,8,6,tidak pernah,netral
+492,493,16,1,TikTok,6.9,Hiburan,6,5,jarang,negatif
+493,494,22,1,Instagram,4.1,Edukasi,6,8,tidak pernah,netral
+494,495,15,0,TikTok,3.6,Hiburan,4,8,tidak pernah,netral
+495,496,18,0,Instagram,2.7,Hiburan,5,8,jarang,posistif
+496,497,14,1,TikTok,1.3,Hiburan,7,9,jarang,posistif
+497,498,22,0,YouTube,2.2,Edukasi,2,9,tidak pernah,posistif
+498,499,16,1,Facebook,3.3,Hiburan,10,7,sering,netral
+499,500,16,0,TikTok,3.5,Berita,10,8,tidak pernah,netral
+500,501,15,1,TikTok,4.6,Hiburan,10,5,tidak pernah,netral
+501,502,21,0,TikTok,3.2,Hiburan,7,8,jarang,netral
+502,503,21,0,TikTok,2.5,Hiburan,8,8,sering,posistif
+503,504,22,0,X,4.8,Hiburan,7,4,tidak pernah,negatif
+504,505,12,1,TikTok,6.3,Hiburan,9,7,tidak pernah,negatif
+505,506,15,0,YouTube,3.2,Edukasi,10,8,jarang,netral
+506,507,12,0,TikTok,4.3,Viral Challenge,2,8,jarang,netral
+507,508,15,0,Instagram,2.3,Hiburan,4,8,tidak pernah,posistif
+508,509,15,1,Instagram,2.4,Hiburan,7,7,jarang,posistif
+509,510,24,0,TikTok,6.2,Hiburan,3,3,tidak pernah,negatif
+510,511,21,0,Instagram,8.0,Hiburan,9,5,tidak pernah,negatif
+511,512,21,0,TikTok,3.6,Edukasi,7,7,sering,netral
+512,513,14,1,TikTok,5.3,Hiburan,2,6,jarang,negatif
+513,514,15,0,Instagram,4.4,Berita,6,4,jarang,negatif
+514,515,15,1,YouTube,5.2,Hiburan,4,6,jarang,negatif
+515,516,23,0,Instagram,4.7,Hiburan,4,5,tidak pernah,netral
+516,517,16,0,Instagram,3.5,Hiburan,5,6,sering,netral
+517,518,22,1,TikTok,1.6,Berita,3,9,jarang,posistif
+518,519,13,1,YouTube,5.6,Edukasi,5,7,tidak pernah,negatif
+519,520,12,1,Instagram,1.7,Edukasi,8,9,jarang,posistif
+520,521,15,1,YouTube,4.8,Viral Challenge,4,6,tidak pernah,netral
+521,522,13,0,YouTube,2.6,Hiburan,9,8,jarang,posistif
+522,523,12,1,TikTok,1.9,Edukasi,5,8,jarang,posistif
+523,524,16,1,TikTok,2.6,Berita,9,9,jarang,posistif
+524,525,23,1,TikTok,4.1,Hiburan,9,6,tidak pernah,netral
+525,526,23,1,X,4.2,Hiburan,9,6,jarang,netral
+526,527,24,1,Instagram,2.1,Edukasi,8,7,sering,posistif
+527,528,18,1,YouTube,5.2,Edukasi,8,4,jarang,negatif
+528,529,13,0,TikTok,3.1,Edukasi,7,7,jarang,netral
+529,530,18,0,TikTok,4.4,Hiburan,9,6,jarang,netral
+530,531,23,1,TikTok,5.1,Edukasi,4,6,jarang,negatif
+531,532,22,0,Instagram,3.3,Hiburan,10,7,jarang,netral
+532,533,21,0,YouTube,4.5,Hiburan,5,6,jarang,netral
+533,534,16,1,TikTok,2.6,Hiburan,6,10,sering,posistif
+534,535,23,0,Instagram,3.7,Berita,2,7,jarang,netral
+535,536,20,0,YouTube,4.5,Hiburan,3,4,jarang,negatif
+536,537,23,0,TikTok,5.1,Hiburan,4,7,jarang,negatif
+537,538,14,0,Instagram,5.4,Hiburan,7,5,sering,negatif
+538,539,23,1,YouTube,4.1,Hiburan,9,8,sering,netral
+539,540,23,0,Instagram,6.4,Hiburan,7,5,sering,negatif
+540,541,12,1,YouTube,2.1,Hiburan,2,8,tidak pernah,posistif
+541,542,15,1,TikTok,4.5,Hiburan,8,5,jarang,netral
+542,543,16,0,YouTube,3.6,Hiburan,10,7,tidak pernah,netral
+543,544,23,1,TikTok,1.5,Hiburan,10,7,tidak pernah,posistif
+544,545,17,1,TikTok,2.8,Hiburan,7,7,jarang,posistif
+545,546,18,1,YouTube,3.0,Edukasi,10,8,tidak pernah,netral
+546,547,21,0,Instagram,1.9,Hiburan,10,8,jarang,posistif
+547,548,23,1,Instagram,1.0,Hiburan,8,9,sering,posistif
+548,549,14,0,YouTube,2.7,Hiburan,2,9,tidak pernah,posistif
+549,550,22,1,TikTok,6.9,Hiburan,5,7,tidak pernah,negatif
+550,551,15,0,Instagram,2.9,Hiburan,5,8,jarang,posistif
+551,552,14,1,TikTok,5.5,Hiburan,9,5,jarang,negatif
+552,553,13,1,Instagram,4.5,Edukasi,2,6,jarang,netral
+553,554,23,0,TikTok,4.5,Viral Challenge,9,7,tidak pernah,netral
+554,555,15,1,YouTube,4.5,Edukasi,5,4,jarang,negatif
+555,556,21,0,X,4.4,Edukasi,9,7,tidak pernah,netral
+556,557,22,0,TikTok,3.5,Hiburan,7,7,tidak pernah,netral
+557,558,15,0,TikTok,4.4,Hiburan,9,8,tidak pernah,netral
+558,559,16,1,Instagram,4.2,Hiburan,8,8,jarang,netral
+559,560,23,0,TikTok,5.3,Hiburan,10,4,jarang,negatif
+560,561,24,1,X,3.8,Hiburan,3,7,sering,netral
+561,562,15,1,TikTok,5.2,Hiburan,10,4,jarang,negatif
+562,563,19,1,Instagram,1.0,Berita,6,10,tidak pernah,posistif
+563,564,20,0,TikTok,2.7,Hiburan,6,6,jarang,posistif
+564,565,24,0,TikTok,2.2,Berita,7,8,tidak pernah,posistif
+565,566,14,1,Instagram,6.6,Edukasi,2,4,jarang,negatif
+566,567,12,0,TikTok,3.4,Hiburan,9,6,tidak pernah,netral
+567,568,19,0,TikTok,4.8,Viral Challenge,2,7,tidak pernah,netral
+568,569,14,1,X,5.5,Hiburan,2,6,tidak pernah,negatif
+569,570,23,1,TikTok,4.7,Hiburan,6,7,sering,netral
+570,571,14,0,TikTok,2.4,Hiburan,7,8,jarang,posistif
+571,572,15,1,Instagram,5.4,Edukasi,8,6,tidak pernah,negatif
+572,573,24,0,X,3.1,Edukasi,9,7,jarang,netral
+573,574,15,1,TikTok,6.4,Edukasi,4,4,sering,negatif
+574,575,22,1,TikTok,2.6,Hiburan,9,7,tidak pernah,posistif
+575,576,19,1,Instagram,1.5,Edukasi,9,9,tidak pernah,posistif
+576,577,16,0,YouTube,5.0,Hiburan,4,6,jarang,netral
+577,578,18,1,Facebook,4.3,Edukasi,8,7,tidak pernah,netral
+578,579,21,0,TikTok,3.6,Hiburan,9,6,jarang,netral
+579,580,18,0,YouTube,7.1,Hiburan,6,3,sering,negatif
+580,581,12,0,Instagram,4.9,Edukasi,2,7,jarang,netral
+581,582,20,0,Facebook,1.9,Berita,2,8,jarang,posistif
+582,583,17,0,X,3.0,Hiburan,10,6,jarang,netral
+583,584,12,1,Instagram,3.8,Edukasi,7,7,jarang,netral
+584,585,13,1,YouTube,2.5,Hiburan,5,8,tidak pernah,posistif
+585,586,21,0,TikTok,3.9,Hiburan,2,7,jarang,netral
+586,587,14,1,X,1.3,Berita,10,10,tidak pernah,posistif
+587,588,21,1,X,5.4,Berita,5,4,sering,negatif
+588,589,15,0,TikTok,3.9,Hiburan,8,6,jarang,netral
+589,590,14,0,Instagram,4.6,Edukasi,3,7,jarang,netral
+590,591,21,1,Instagram,5.0,Hiburan,6,7,tidak pernah,netral
+591,592,21,1,TikTok,5.9,Hiburan,2,5,jarang,negatif
+592,593,24,1,Instagram,6.2,Edukasi,6,5,tidak pernah,negatif
+593,594,12,1,Instagram,5.9,Hiburan,5,5,tidak pernah,negatif
+594,595,20,1,Instagram,5.4,Hiburan,10,6,jarang,negatif
+595,596,19,0,YouTube,3.0,Hiburan,10,7,tidak pernah,netral
+596,597,19,1,TikTok,4.0,Hiburan,4,8,jarang,netral
+597,598,24,1,Instagram,2.4,Edukasi,6,8,sering,posistif
+598,599,16,1,X,4.6,Edukasi,3,6,jarang,netral
+599,600,12,0,Instagram,4.5,Hiburan,3,6,jarang,netral
+600,601,24,1,TikTok,4.4,Hiburan,6,8,jarang,netral
+601,602,19,1,Instagram,1.5,Hiburan,10,8,tidak pernah,posistif
+602,603,15,0,TikTok,2.0,Hiburan,9,8,tidak pernah,posistif
+603,604,17,1,TikTok,2.9,Hiburan,2,9,jarang,posistif
+604,605,24,0,TikTok,2.4,Hiburan,3,8,jarang,posistif
+605,606,20,0,YouTube,1.8,Hiburan,2,7,jarang,posistif
+606,607,23,1,TikTok,5.5,Hiburan,9,7,jarang,negatif
+607,608,16,0,YouTube,5.5,Hiburan,6,7,tidak pernah,negatif
+608,609,20,0,Instagram,5.0,Viral Challenge,10,5,tidak pernah,netral
+609,610,15,0,TikTok,3.8,Hiburan,9,7,sering,netral
+610,611,16,0,TikTok,5.6,Edukasi,4,4,tidak pernah,negatif
+611,612,24,0,TikTok,4.8,Hiburan,8,6,tidak pernah,netral
+612,613,15,1,TikTok,2.9,Hiburan,4,10,jarang,posistif
+613,614,22,0,Instagram,4.5,Hiburan,5,7,sering,netral
+614,615,24,1,Instagram,2.9,Hiburan,5,8,sering,posistif
+615,616,19,1,TikTok,3.1,Hiburan,10,8,tidak pernah,netral
+616,617,12,0,Instagram,5.6,Edukasi,10,5,tidak pernah,negatif
+617,618,21,0,YouTube,3.5,Hiburan,4,8,jarang,netral
+618,619,17,0,TikTok,4.6,Hiburan,10,6,sering,netral
+619,620,13,0,YouTube,3.6,Hiburan,4,8,tidak pernah,netral
+620,621,18,0,TikTok,3.2,Edukasi,9,7,jarang,netral
+621,622,15,0,YouTube,5.6,Viral Challenge,8,6,jarang,negatif
+622,623,24,0,YouTube,5.6,Hiburan,8,5,jarang,negatif
+623,624,24,1,YouTube,2.5,Edukasi,7,6,jarang,posistif
+624,625,20,0,Instagram,3.5,Hiburan,2,7,sering,netral
+625,626,18,0,X,3.7,Hiburan,10,9,jarang,netral
+626,627,13,0,X,4.5,Viral Challenge,9,8,tidak pernah,netral
+627,628,14,0,TikTok,5.0,Hiburan,4,7,jarang,netral
+628,629,21,0,TikTok,2.0,Hiburan,6,8,jarang,posistif
+629,630,24,0,TikTok,7.9,Hiburan,9,4,jarang,negatif
+630,631,18,1,Instagram,3.5,Edukasi,8,7,jarang,netral
+631,632,14,0,TikTok,5.2,Edukasi,5,6,tidak pernah,negatif
+632,633,21,0,TikTok,4.6,Edukasi,5,5,sering,netral
+633,634,16,0,TikTok,2.6,Edukasi,3,8,tidak pernah,posistif
+634,635,17,1,YouTube,5.3,Hiburan,6,5,tidak pernah,negatif
+635,636,20,0,X,4.5,Hiburan,3,7,tidak pernah,netral
+636,637,20,0,X,7.5,Viral Challenge,8,5,tidak pernah,negatif
+637,638,24,0,TikTok,3.0,Edukasi,8,6,tidak pernah,netral
+638,639,22,0,TikTok,4.2,Edukasi,7,7,tidak pernah,netral
+639,640,21,0,YouTube,1.0,Edukasi,9,9,sering,posistif
+640,641,24,0,TikTok,4.2,Berita,7,7,sering,netral
+641,642,17,0,Instagram,5.0,Berita,9,7,jarang,netral
+642,643,12,1,YouTube,6.3,Berita,10,4,sering,negatif
+643,644,23,1,TikTok,3.7,Hiburan,9,6,tidak pernah,netral
+644,645,15,0,TikTok,3.9,Hiburan,10,7,jarang,netral
+645,646,15,0,TikTok,3.9,Hiburan,2,7,jarang,netral
+646,647,12,1,Instagram,2.4,Hiburan,7,7,jarang,posistif
+647,648,17,0,TikTok,4.3,Hiburan,5,5,tidak pernah,netral
+648,649,17,0,YouTube,5.5,Edukasi,5,5,jarang,negatif
+649,650,21,1,TikTok,4.4,Hiburan,6,6,jarang,netral
+650,651,18,1,Instagram,5.7,Hiburan,4,6,sering,negatif
+651,652,18,0,Instagram,5.1,Hiburan,7,6,tidak pernah,negatif
+652,653,13,1,X,1.5,Hiburan,3,8,sering,posistif
+653,654,22,1,YouTube,7.2,Berita,5,4,jarang,negatif
+654,655,22,0,Instagram,1.4,Hiburan,8,9,jarang,posistif
+655,656,22,0,TikTok,2.1,Berita,7,7,tidak pernah,posistif
+656,657,13,0,Instagram,2.8,Edukasi,8,8,sering,posistif
+657,658,17,0,Instagram,5.4,Hiburan,10,7,sering,negatif
+658,659,16,1,TikTok,3.9,Hiburan,8,6,tidak pernah,netral
+659,660,15,1,X,5.7,Hiburan,9,4,jarang,negatif
+660,661,24,1,Instagram,3.7,Hiburan,10,7,sering,netral
+661,662,14,0,TikTok,1.4,Edukasi,6,8,jarang,posistif
+662,663,13,1,X,4.2,Berita,6,7,tidak pernah,netral
+663,664,24,0,Instagram,3.8,Hiburan,4,6,jarang,netral
+664,665,16,0,TikTok,6.4,Hiburan,9,4,sering,negatif
+665,666,20,0,X,6.8,Hiburan,7,4,jarang,negatif
+666,667,20,0,Instagram,2.6,Viral Challenge,4,8,jarang,posistif
+667,668,18,0,TikTok,2.3,Hiburan,3,6,jarang,posistif
+668,669,21,0,Instagram,4.0,Hiburan,5,4,jarang,negatif
+669,670,18,1,TikTok,4.3,Hiburan,10,7,jarang,netral
+670,671,23,1,Facebook,4.7,Hiburan,2,7,jarang,netral
+671,672,14,0,TikTok,3.3,Hiburan,10,9,jarang,netral
+672,673,16,1,TikTok,5.0,Hiburan,9,4,jarang,negatif
+673,674,18,0,TikTok,4.2,Hiburan,8,6,jarang,netral
+674,675,18,0,Instagram,3.8,Hiburan,8,7,tidak pernah,netral
+675,676,20,0,X,6.1,Berita,4,6,tidak pernah,negatif
+676,677,21,0,YouTube,5.0,Hiburan,6,7,sering,netral
+677,678,17,1,YouTube,3.1,Viral Challenge,7,8,jarang,netral
+678,679,16,1,TikTok,2.4,Hiburan,9,8,jarang,posistif
+679,680,15,1,Instagram,2.7,Hiburan,7,9,jarang,posistif
+680,681,15,0,Instagram,5.1,Edukasi,2,4,sering,negatif
+681,682,15,1,TikTok,1.4,Berita,8,10,sering,posistif
+682,683,16,0,TikTok,4.7,Edukasi,5,7,tidak pernah,netral
+683,684,15,0,Instagram,5.1,Hiburan,8,4,jarang,negatif
+684,685,19,1,YouTube,2.4,Edukasi,4,9,sering,posistif
+685,686,12,1,TikTok,5.2,Edukasi,6,4,jarang,negatif
+686,687,15,0,TikTok,5.5,Hiburan,2,6,jarang,negatif
+687,688,23,0,Instagram,2.2,Hiburan,3,8,sering,posistif
+688,689,16,0,TikTok,3.7,Hiburan,7,6,jarang,netral
+689,690,17,1,TikTok,4.5,Hiburan,5,6,tidak pernah,netral
+690,691,17,0,Instagram,3.4,Hiburan,6,8,tidak pernah,netral
+691,692,19,0,X,3.4,Viral Challenge,2,8,jarang,netral
+692,693,16,1,Instagram,4.2,Edukasi,2,5,jarang,netral
+693,694,19,1,X,6.4,Hiburan,7,5,tidak pernah,negatif
+694,695,14,1,Instagram,3.0,Berita,3,8,jarang,netral
+695,696,23,1,Facebook,2.5,Hiburan,6,8,jarang,posistif
+696,697,20,1,TikTok,6.0,Hiburan,10,4,jarang,negatif
+697,698,13,1,TikTok,2.0,Hiburan,4,9,sering,posistif
+698,699,15,0,TikTok,2.1,Hiburan,4,10,jarang,posistif
+699,700,13,0,TikTok,3.0,Edukasi,9,9,jarang,netral
+700,701,21,0,TikTok,1.9,Hiburan,6,7,jarang,posistif
+701,702,24,1,YouTube,5.6,Hiburan,7,5,tidak pernah,negatif
+702,703,18,1,TikTok,3.4,Edukasi,2,8,sering,netral
+703,704,19,0,TikTok,2.6,Berita,9,7,sering,posistif
+704,705,24,1,Instagram,4.9,Edukasi,6,5,jarang,netral
+705,706,13,0,TikTok,2.5,Berita,10,8,jarang,posistif
+706,707,22,1,Instagram,3.6,Hiburan,5,7,jarang,netral
+707,708,23,1,TikTok,2.2,Hiburan,2,9,tidak pernah,posistif
+708,709,24,1,TikTok,5.8,Hiburan,6,5,tidak pernah,negatif
+709,710,16,0,TikTok,2.3,Edukasi,9,6,tidak pernah,posistif
+710,711,22,1,TikTok,5.0,Hiburan,7,8,sering,netral
+711,712,16,0,Instagram,4.8,Hiburan,6,6,jarang,netral
+712,713,23,1,Facebook,2.9,Viral Challenge,4,6,jarang,posistif
+713,714,14,1,TikTok,5.4,Hiburan,2,5,jarang,negatif
+714,715,16,0,Instagram,3.1,Hiburan,8,9,tidak pernah,netral
+715,716,16,1,X,4.1,Hiburan,3,7,jarang,netral
+716,717,17,1,TikTok,2.2,Hiburan,8,7,tidak pernah,posistif
+717,718,18,0,TikTok,4.3,Berita,6,8,jarang,netral
+718,719,23,1,Instagram,3.5,Edukasi,10,7,jarang,netral
+719,720,23,0,YouTube,5.0,Edukasi,6,7,tidak pernah,netral
+720,721,12,0,X,3.7,Edukasi,8,6,sering,netral
+721,722,14,1,TikTok,6.8,Hiburan,8,5,jarang,negatif
+722,723,14,1,YouTube,3.2,Hiburan,8,7,tidak pernah,netral
+723,724,23,1,TikTok,6.6,Hiburan,4,5,jarang,negatif
+724,725,13,1,YouTube,5.5,Hiburan,10,6,jarang,negatif
+725,726,17,1,TikTok,1.0,Edukasi,4,8,jarang,posistif
+726,727,15,1,TikTok,5.7,Edukasi,4,5,tidak pernah,negatif
+727,728,24,0,Facebook,5.0,Hiburan,2,8,jarang,netral
+728,729,12,0,X,4.0,Hiburan,4,6,jarang,netral
+729,730,20,0,TikTok,3.6,Hiburan,8,8,jarang,netral
+730,731,19,1,YouTube,2.2,Hiburan,8,8,jarang,posistif
+731,732,15,1,Instagram,1.9,Berita,5,7,tidak pernah,posistif
+732,733,14,1,YouTube,1.5,Hiburan,8,8,tidak pernah,posistif
+733,734,20,0,Instagram,4.5,Hiburan,6,7,jarang,netral
+734,735,24,1,Instagram,3.5,Berita,4,7,tidak pernah,netral
+735,736,22,0,X,3.8,Hiburan,5,7,jarang,netral
+736,737,15,1,Facebook,5.3,Hiburan,7,5,jarang,negatif
+737,738,14,1,YouTube,2.4,Hiburan,8,5,tidak pernah,posistif
+738,739,18,1,TikTok,3.2,Edukasi,7,6,tidak pernah,netral
+739,740,20,1,TikTok,5.6,Berita,4,5,jarang,negatif
+740,741,20,1,TikTok,4.2,Edukasi,8,9,jarang,netral
+741,742,17,1,Instagram,6.7,Hiburan,2,4,tidak pernah,negatif
+742,743,15,1,YouTube,2.5,Hiburan,6,10,jarang,posistif
+743,744,14,1,TikTok,4.4,Hiburan,10,7,tidak pernah,netral
+744,745,19,0,YouTube,1.0,Hiburan,7,10,jarang,posistif
+745,746,16,1,TikTok,2.3,Edukasi,4,8,tidak pernah,posistif
+746,747,13,1,X,3.6,Hiburan,7,7,jarang,netral
+747,748,22,0,TikTok,2.5,Edukasi,6,7,jarang,posistif
+748,749,13,0,Instagram,4.8,Hiburan,2,6,sering,netral
+749,750,23,1,TikTok,5.3,Edukasi,9,6,jarang,negatif
+750,751,14,0,YouTube,3.5,Hiburan,6,6,sering,netral
+751,752,12,1,YouTube,1.8,Berita,2,9,jarang,posistif
+752,753,12,1,Instagram,5.2,Hiburan,9,7,tidak pernah,negatif
+753,754,12,1,TikTok,3.5,Hiburan,9,6,jarang,netral
+754,755,19,1,YouTube,2.9,Hiburan,3,6,jarang,posistif
+755,756,12,0,Instagram,5.4,Hiburan,7,4,jarang,negatif
+756,757,19,1,TikTok,5.1,Hiburan,6,5,sering,negatif
+757,758,15,1,Instagram,3.6,Hiburan,3,7,sering,netral
+758,759,21,1,Instagram,3.6,Hiburan,9,7,jarang,netral
+759,760,12,1,TikTok,3.7,Edukasi,2,8,sering,netral
+760,761,13,0,TikTok,3.8,Edukasi,5,6,jarang,netral
+761,762,18,1,TikTok,3.1,Hiburan,10,8,jarang,netral
+762,763,21,0,Instagram,4.5,Hiburan,7,7,jarang,netral
+763,764,18,0,Instagram,3.5,Berita,9,7,jarang,netral
+764,765,20,1,YouTube,5.7,Hiburan,8,4,tidak pernah,negatif
+765,766,15,0,YouTube,4.1,Berita,10,6,tidak pernah,netral
+766,767,19,0,TikTok,3.1,Berita,3,8,tidak pernah,netral
+767,768,15,0,TikTok,2.3,Edukasi,5,7,jarang,posistif
+768,769,17,0,Instagram,5.4,Edukasi,2,5,jarang,negatif
+769,770,17,1,X,1.0,Hiburan,7,10,jarang,posistif
+770,771,12,0,YouTube,4.6,Edukasi,10,6,jarang,netral
+771,772,13,1,X,6.6,Hiburan,3,5,tidak pernah,negatif
+772,773,20,0,TikTok,3.8,Berita,9,7,tidak pernah,netral
+773,774,12,1,Instagram,3.2,Edukasi,6,7,jarang,netral
+774,775,19,0,Instagram,4.9,Hiburan,9,6,tidak pernah,netral
+775,776,17,0,TikTok,4.6,Hiburan,4,8,tidak pernah,netral
+776,777,13,0,TikTok,4.9,Hiburan,8,6,tidak pernah,netral
+777,778,21,1,YouTube,5.1,Hiburan,9,6,tidak pernah,negatif
+778,779,21,0,X,2.6,Hiburan,5,5,tidak pernah,posistif
+779,780,19,1,TikTok,5.6,Edukasi,7,5,tidak pernah,negatif
+780,781,21,0,TikTok,5.2,Hiburan,10,5,jarang,negatif
+781,782,15,1,TikTok,5.0,Hiburan,2,6,tidak pernah,netral
+782,783,23,0,TikTok,3.8,Edukasi,9,7,jarang,netral
+783,784,17,0,YouTube,3.4,Edukasi,6,8,tidak pernah,netral
+784,785,13,1,Instagram,4.7,Hiburan,6,7,jarang,netral
+785,786,20,0,X,5.8,Berita,2,7,tidak pernah,negatif
+786,787,19,0,TikTok,6.2,Hiburan,6,6,jarang,negatif
+787,788,19,0,YouTube,4.4,Edukasi,5,6,jarang,netral
+788,789,22,0,Instagram,6.2,Hiburan,9,5,tidak pernah,negatif
+789,790,24,1,TikTok,4.8,Hiburan,2,4,sering,negatif
+790,791,20,0,X,4.7,Hiburan,6,7,sering,netral
+791,792,19,0,TikTok,3.0,Edukasi,4,7,tidak pernah,netral
+792,793,21,1,TikTok,1.5,Hiburan,8,9,tidak pernah,posistif
+793,794,23,0,YouTube,4.3,Hiburan,3,7,jarang,netral
+794,795,16,1,Instagram,2.8,Berita,2,8,tidak pernah,posistif
+795,796,14,1,TikTok,5.5,Hiburan,10,5,jarang,negatif
+796,797,16,0,TikTok,1.4,Edukasi,7,8,jarang,posistif
+797,798,13,0,X,3.3,Hiburan,3,8,jarang,netral
+798,799,14,0,YouTube,4.6,Hiburan,8,5,jarang,netral
+799,800,16,1,Instagram,5.0,Edukasi,2,4,jarang,negatif
+800,801,17,0,TikTok,3.7,Berita,4,7,tidak pernah,netral
+801,802,15,1,YouTube,3.0,Hiburan,4,8,tidak pernah,netral
+802,803,16,1,Facebook,3.1,Edukasi,5,8,tidak pernah,netral
+803,804,13,0,Instagram,4.9,Edukasi,7,8,tidak pernah,netral
+804,805,17,0,TikTok,2.3,Hiburan,9,8,tidak pernah,posistif
+805,806,22,0,TikTok,6.1,Edukasi,7,6,jarang,negatif
+806,807,15,0,Instagram,1.0,Hiburan,10,10,sering,posistif
+807,808,15,1,YouTube,3.8,Hiburan,4,5,tidak pernah,netral
+808,809,16,1,Instagram,3.9,Hiburan,6,6,tidak pernah,netral
+809,810,16,1,X,2.2,Edukasi,9,6,sering,posistif
+810,811,14,1,Instagram,6.9,Hiburan,10,6,sering,negatif
+811,812,13,1,X,3.8,Hiburan,5,7,tidak pernah,netral
+812,813,12,0,TikTok,3.0,Hiburan,6,7,sering,netral
+813,814,12,1,Instagram,1.0,Berita,10,8,jarang,posistif
+814,815,24,0,YouTube,4.6,Hiburan,5,6,tidak pernah,netral
+815,816,18,0,TikTok,3.0,Edukasi,10,8,sering,netral
+816,817,16,0,Instagram,1.6,Edukasi,9,8,sering,posistif
+817,818,24,0,Instagram,3.3,Edukasi,2,8,jarang,netral
+818,819,22,0,Instagram,4.6,Hiburan,3,6,jarang,netral
+819,820,21,0,X,5.8,Edukasi,6,5,jarang,negatif
+820,821,22,1,Instagram,3.7,Edukasi,6,9,tidak pernah,netral
+821,822,13,1,TikTok,3.9,Viral Challenge,4,8,jarang,netral
+822,823,14,1,Instagram,3.3,Hiburan,10,7,jarang,netral
+823,824,16,0,YouTube,3.2,Hiburan,5,9,sering,netral
+824,825,23,1,Instagram,4.4,Hiburan,8,6,tidak pernah,netral
+825,826,23,1,Instagram,4.3,Berita,10,6,tidak pernah,netral
+826,827,24,1,Facebook,3.9,Hiburan,8,8,tidak pernah,netral
+827,828,17,0,TikTok,2.8,Viral Challenge,7,8,jarang,posistif
+828,829,20,1,TikTok,4.1,Berita,10,6,jarang,netral
+829,830,17,1,TikTok,3.2,Edukasi,6,6,tidak pernah,netral
+830,831,20,0,TikTok,6.5,Hiburan,3,6,tidak pernah,negatif
+831,832,14,1,TikTok,2.5,Edukasi,9,8,tidak pernah,posistif
+832,833,23,0,Instagram,4.8,Hiburan,4,7,jarang,netral
+833,834,19,1,TikTok,3.0,Hiburan,5,7,sering,netral
+834,835,19,0,X,4.9,Hiburan,6,5,sering,netral
+835,836,14,0,X,4.7,Edukasi,10,7,sering,netral
+836,837,20,1,Instagram,4.3,Edukasi,3,6,tidak pernah,netral
+837,838,14,0,YouTube,3.0,Hiburan,3,8,jarang,netral
+838,839,18,1,TikTok,7.5,Hiburan,4,5,jarang,negatif
+839,840,19,0,Instagram,4.2,Hiburan,10,7,sering,netral
+840,841,12,1,Instagram,5.1,Edukasi,8,4,jarang,negatif
+841,842,12,0,YouTube,3.5,Berita,10,8,jarang,netral
+842,843,23,1,TikTok,1.0,Hiburan,8,9,sering,posistif
+843,844,22,0,Instagram,1.0,Hiburan,3,9,jarang,posistif
+844,845,14,0,TikTok,3.6,Hiburan,4,6,jarang,netral
+845,846,19,1,Instagram,2.7,Hiburan,3,8,jarang,posistif
+846,847,13,1,TikTok,2.7,Berita,9,8,tidak pernah,posistif
+847,848,16,1,TikTok,2.3,Berita,7,8,jarang,posistif
+848,849,19,1,TikTok,2.4,Hiburan,4,8,sering,posistif
+849,850,17,0,TikTok,3.9,Hiburan,10,7,sering,netral
+850,851,12,0,TikTok,5.0,Hiburan,9,6,jarang,netral
+851,852,12,1,Instagram,2.0,Hiburan,3,7,jarang,posistif
+852,853,16,1,YouTube,1.0,Edukasi,3,10,sering,posistif
+853,854,12,0,TikTok,1.7,Hiburan,2,9,sering,posistif
+854,855,16,1,TikTok,2.7,Hiburan,7,8,tidak pernah,posistif
+855,856,13,0,TikTok,2.2,Hiburan,6,8,tidak pernah,posistif
+856,857,20,0,YouTube,8.0,Hiburan,4,6,tidak pernah,negatif
+857,858,13,0,TikTok,3.5,Hiburan,7,7,jarang,netral
+858,859,12,0,YouTube,5.7,Edukasi,8,5,jarang,negatif
+859,860,20,0,TikTok,3.6,Viral Challenge,10,7,tidak pernah,netral
+860,861,12,0,YouTube,2.6,Hiburan,10,5,jarang,posistif
+861,862,19,1,Instagram,3.2,Hiburan,2,8,tidak pernah,netral
+862,863,20,0,Instagram,6.0,Hiburan,7,7,tidak pernah,negatif
+863,864,16,0,YouTube,3.9,Hiburan,7,6,jarang,netral
+864,865,16,0,Instagram,6.4,Hiburan,7,5,jarang,negatif
+865,866,20,0,Instagram,6.3,Hiburan,3,6,jarang,negatif
+866,867,24,1,TikTok,4.1,Hiburan,2,7,tidak pernah,netral
+867,868,18,0,TikTok,4.3,Berita,3,7,jarang,netral
+868,869,20,0,TikTok,5.2,Hiburan,8,6,tidak pernah,negatif
+869,870,13,1,TikTok,2.1,Hiburan,8,8,jarang,posistif
+870,871,16,0,TikTok,1.6,Hiburan,8,9,jarang,posistif
+871,872,18,0,YouTube,6.7,Edukasi,6,6,jarang,negatif
+872,873,21,0,TikTok,8.0,Hiburan,2,7,sering,negatif
+873,874,15,1,TikTok,4.7,Hiburan,2,7,jarang,netral
+874,875,18,0,Instagram,3.7,Hiburan,5,8,jarang,netral
+875,876,13,0,YouTube,3.7,Viral Challenge,9,6,jarang,netral
+876,877,16,0,TikTok,7.3,Edukasi,7,5,tidak pernah,negatif
+877,878,12,1,Instagram,3.2,Edukasi,9,9,jarang,netral
+878,879,16,0,YouTube,3.1,Hiburan,7,8,tidak pernah,netral
+879,880,20,1,TikTok,3.4,Edukasi,6,7,tidak pernah,netral
+880,881,20,0,TikTok,4.2,Hiburan,9,6,tidak pernah,netral
+881,882,21,1,X,2.4,Berita,10,10,jarang,posistif
+882,883,24,0,YouTube,2.7,Edukasi,10,7,jarang,posistif
+883,884,19,1,X,6.3,Hiburan,6,5,jarang,negatif
+884,885,16,1,YouTube,4.4,Berita,2,7,jarang,netral
+885,886,15,0,YouTube,3.1,Edukasi,3,8,sering,netral
+886,887,13,1,Instagram,3.5,Hiburan,10,6,sering,netral
+887,888,15,1,Instagram,2.5,Edukasi,6,8,jarang,posistif
+888,889,23,1,TikTok,4.7,Hiburan,10,6,jarang,netral
+889,890,15,0,TikTok,1.5,Hiburan,3,10,jarang,posistif
+890,891,15,1,TikTok,3.3,Hiburan,3,7,jarang,netral
+891,892,14,1,Facebook,4.9,Hiburan,4,5,jarang,netral
+892,893,13,0,TikTok,3.7,Edukasi,3,5,sering,netral
+893,894,14,0,Instagram,4.0,Hiburan,6,6,sering,netral
+894,895,22,1,TikTok,6.2,Hiburan,10,4,sering,negatif
+895,896,18,1,X,2.6,Hiburan,10,8,jarang,posistif
+896,897,22,1,TikTok,2.3,Hiburan,10,8,jarang,posistif
+897,898,14,0,Instagram,5.1,Hiburan,4,7,tidak pernah,negatif
+898,899,23,0,Instagram,4.9,Hiburan,9,5,sering,netral
+899,900,12,1,X,4.6,Hiburan,8,5,jarang,netral
+900,901,16,0,Instagram,3.2,Hiburan,3,6,tidak pernah,netral
+901,902,13,1,Instagram,6.3,Hiburan,3,7,tidak pernah,negatif
+902,903,16,1,YouTube,2.7,Edukasi,2,10,jarang,posistif
+903,904,24,1,TikTok,1.1,Hiburan,7,9,jarang,posistif
+904,905,12,1,YouTube,3.4,Edukasi,3,7,jarang,netral
+905,906,16,0,X,6.1,Berita,3,6,jarang,negatif
+906,907,17,0,YouTube,3.0,Hiburan,9,8,jarang,netral
+907,908,15,0,TikTok,6.0,Hiburan,2,6,sering,negatif
+908,909,24,0,X,5.5,Edukasi,5,6,jarang,negatif
+909,910,20,1,X,2.5,Hiburan,4,8,tidak pernah,posistif
+910,911,12,1,YouTube,4.3,Berita,3,7,jarang,netral
+911,912,17,0,Instagram,6.1,Hiburan,8,6,jarang,negatif
+912,913,14,0,Instagram,4.1,Edukasi,7,5,tidak pernah,netral
+913,914,16,0,Instagram,6.9,Hiburan,8,5,jarang,negatif
+914,915,18,1,YouTube,2.6,Edukasi,5,6,tidak pernah,posistif
+915,916,18,1,TikTok,5.2,Edukasi,10,5,jarang,negatif
+916,917,17,1,TikTok,2.2,Hiburan,3,9,tidak pernah,posistif
+917,918,18,0,YouTube,5.2,Hiburan,3,6,jarang,negatif
+918,919,12,0,TikTok,4.1,Hiburan,6,7,jarang,netral
+919,920,15,0,YouTube,6.3,Berita,7,5,sering,negatif
+920,921,13,1,YouTube,6.8,Berita,5,3,jarang,negatif
+921,922,15,1,TikTok,4.6,Hiburan,9,6,sering,netral
+922,923,14,0,TikTok,4.7,Hiburan,4,6,jarang,netral
+923,924,16,1,YouTube,6.0,Edukasi,7,5,jarang,negatif
+924,925,14,0,TikTok,3.1,Hiburan,4,6,jarang,netral
+925,926,23,0,Instagram,3.4,Edukasi,10,7,jarang,netral
+926,927,21,0,YouTube,3.4,Edukasi,6,8,sering,netral
+927,928,16,0,Instagram,3.9,Hiburan,5,7,tidak pernah,netral
+928,929,14,1,X,2.2,Edukasi,2,8,sering,posistif
+929,930,21,1,YouTube,5.9,Berita,9,5,tidak pernah,negatif
+930,931,20,1,YouTube,3.9,Hiburan,2,5,tidak pernah,netral
+931,932,24,1,Instagram,5.2,Hiburan,7,6,tidak pernah,negatif
+932,933,24,0,YouTube,4.0,Hiburan,3,6,jarang,netral
+933,934,15,0,TikTok,2.0,Hiburan,9,10,jarang,posistif
+934,935,20,0,Instagram,2.3,Edukasi,4,7,jarang,posistif
+935,936,18,1,YouTube,2.7,Hiburan,3,7,sering,posistif
+936,937,12,0,X,6.2,Hiburan,3,4,jarang,negatif
+937,938,21,0,YouTube,6.5,Hiburan,7,4,tidak pernah,negatif
+938,939,16,0,X,1.6,Berita,2,7,jarang,posistif
+939,940,12,0,Instagram,3.3,Hiburan,6,8,sering,netral
+940,941,20,0,TikTok,2.6,Berita,7,8,tidak pernah,posistif
+941,942,21,1,Instagram,1.7,Edukasi,10,9,jarang,posistif
+942,943,24,1,TikTok,1.0,Hiburan,9,8,sering,posistif
+943,944,12,1,TikTok,3.4,Hiburan,2,6,jarang,netral
+944,945,16,0,TikTok,5.1,Hiburan,3,6,tidak pernah,negatif
+945,946,14,1,TikTok,5.2,Hiburan,4,8,jarang,negatif
+946,947,12,1,Instagram,2.4,Edukasi,5,7,jarang,posistif
+947,948,18,1,TikTok,4.1,Edukasi,8,6,sering,netral
+948,949,15,1,Instagram,3.6,Edukasi,7,9,sering,netral
+949,950,12,1,YouTube,4.6,Hiburan,9,6,sering,netral
+950,951,15,1,Instagram,1.0,Berita,5,10,sering,posistif
+951,952,22,1,TikTok,6.4,Hiburan,2,5,jarang,negatif
+952,953,14,1,TikTok,1.4,Hiburan,7,10,sering,posistif
+953,954,15,0,YouTube,4.9,Hiburan,5,7,tidak pernah,netral
+954,955,13,1,YouTube,2.9,Edukasi,10,10,tidak pernah,posistif
+955,956,16,1,Instagram,5.1,Hiburan,7,7,jarang,negatif
+956,957,17,0,Instagram,4.2,Hiburan,8,6,jarang,netral
+957,958,15,0,X,5.7,Hiburan,5,5,jarang,negatif
+958,959,14,1,Instagram,5.8,Edukasi,10,6,jarang,negatif
+959,960,13,1,TikTok,4.0,Hiburan,9,9,sering,netral
+960,961,17,0,TikTok,5.0,Edukasi,10,6,tidak pernah,netral
+961,962,12,1,X,2.7,Berita,10,8,jarang,posistif
+962,963,18,1,Instagram,4.6,Edukasi,3,5,jarang,netral
+963,964,18,1,TikTok,4.4,Berita,3,5,jarang,netral
+964,965,19,1,Instagram,4.2,Hiburan,10,6,jarang,netral
+965,966,13,1,Facebook,4.7,Hiburan,4,5,jarang,netral
+966,967,16,1,TikTok,2.7,Hiburan,7,9,jarang,posistif
+967,968,12,0,Instagram,6.2,Hiburan,10,4,sering,negatif
+968,969,18,1,TikTok,6.7,Hiburan,4,4,jarang,negatif
+969,970,12,1,Instagram,4.8,Edukasi,6,6,tidak pernah,netral
+970,971,22,1,TikTok,4.0,Edukasi,2,7,tidak pernah,netral
+971,972,24,1,YouTube,2.9,Hiburan,6,8,jarang,posistif
+972,973,15,0,YouTube,2.4,Berita,4,9,jarang,posistif
+973,974,19,0,X,4.0,Edukasi,2,7,tidak pernah,netral
+974,975,17,1,Facebook,6.1,Edukasi,5,4,sering,negatif
+975,976,18,1,TikTok,5.4,Edukasi,9,5,jarang,negatif
+976,977,24,0,TikTok,2.5,Hiburan,8,8,tidak pernah,posistif
+977,978,16,0,TikTok,2.0,Hiburan,2,8,sering,posistif
+978,979,17,1,X,5.3,Hiburan,5,6,sering,negatif
+979,980,17,1,TikTok,3.3,Edukasi,9,7,jarang,netral
+980,981,18,0,Instagram,4.7,Hiburan,8,8,sering,netral
+981,982,18,1,YouTube,3.1,Hiburan,7,9,tidak pernah,netral
+982,983,18,0,Instagram,2.4,Berita,7,7,jarang,posistif
+983,984,12,1,X,3.9,Edukasi,5,8,sering,netral
+984,985,18,0,YouTube,2.8,Berita,8,6,jarang,posistif
+985,986,13,1,Instagram,2.4,Edukasi,2,8,tidak pernah,posistif
+986,987,15,0,X,5.7,Edukasi,3,4,jarang,negatif
+987,988,18,1,TikTok,3.7,Edukasi,10,8,jarang,netral
+988,989,20,0,TikTok,2.3,Edukasi,2,8,jarang,posistif
+989,990,15,1,TikTok,4.5,Edukasi,5,7,jarang,netral
+990,991,24,1,TikTok,6.7,Hiburan,4,6,jarang,negatif
+991,992,13,1,TikTok,5.5,Hiburan,4,5,sering,negatif
+992,993,22,1,YouTube,3.6,Hiburan,8,5,sering,netral
+993,994,16,0,Instagram,3.3,Berita,10,7,jarang,netral
+994,995,15,1,TikTok,2.8,Hiburan,5,6,tidak pernah,posistif
+995,996,15,0,YouTube,4.7,Hiburan,7,7,sering,netral
+996,997,19,0,YouTube,3.3,Hiburan,10,8,tidak pernah,netral
+997,998,13,0,TikTok,1.3,Hiburan,6,9,jarang,posistif
+998,999,20,1,TikTok,3.4,Edukasi,4,6,tidak pernah,netral
+999,1000,19,1,Instagram,5.2,Edukasi,9,6,tidak pernah,negatif
