@@ -1,0 +1,4 @@
+NIM: 20240040075
+Nama: shelva
+Alamat: sukaraja
+Kelas: TI24
